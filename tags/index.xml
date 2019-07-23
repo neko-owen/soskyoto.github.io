@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SoS Kyoto</title>
+    <link>http://github.com/soskyoto.github.io/soskyoto/tags/</link>
+    <description>Recent content on SoS Kyoto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 13:49:50 +1000</lastBuildDate>
+    
+	<atom:link href="http://github.com/soskyoto.github.io/soskyoto/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get Involved</title>
+      <link>http://github.com/soskyoto.github.io/soskyoto/get_involved/</link>
+      <pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate>
+      
+      <guid>http://github.com/soskyoto.github.io/soskyoto/get_involved/</guid>
+      <description>Summer time is hitting us and the temperature keeps rising&amp;hellip;
+Instead of turning on your AC, prepare some bentos for the picnic and join this meetup to get some cool mist with us in a beautiful location.
+There will be no specific structure to this meetup - except the usual introduction and ice breaking - but we will be happy to bring casual discussions about sustainability, food and the necessity of preserving the quality of the water around us.</description>
+    </item>
+    
+    <item>
+      <title>Thanks for Contacting Us</title>
+      <link>http://github.com/soskyoto.github.io/soskyoto/contact_thanks/</link>
+      <pubDate>Sat, 12 May 2018 13:38:38 +1000</pubDate>
+      
+      <guid>http://github.com/soskyoto.github.io/soskyoto/contact_thanks/</guid>
+      <description>Thanks for touching base with us. Someone from SoS Kyoto will be in touch soon.</description>
+    </item>
+    
+  </channel>
+</rss>
